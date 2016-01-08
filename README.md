@@ -1,4 +1,4 @@
-# Travel Page
+# Animal Shelter Page
 **CSS exercise for Epicodus, 01.06.2016**
 ### By Anna Lawley and Cassy Culkins
 
